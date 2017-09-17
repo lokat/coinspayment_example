@@ -1,0 +1,1 @@
+# coinspayment_example
